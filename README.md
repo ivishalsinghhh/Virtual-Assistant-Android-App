@@ -1,3 +1,5 @@
 # Virtual-Assistant-Android-App
 The Speech Recognition library of android is used to recognize the speech of the user and make the user’input into the text and then or reply or take some action on this input and XML is used to create the pages of the app. 
-NOTE:- This project is made by me aand my friend shubham kumar prajapati
+
+
+NOTE:- This project is made by me and my friend shubham kumar prajapati
